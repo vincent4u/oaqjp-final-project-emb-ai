@@ -1,8 +1,3 @@
-Perfect! Here’s a **fully copy-paste-ready, professional README** for your GitHub repo. I formatted it so you can directly save it as `README.md` in your repository. I also added a **Portfolio Showcase section** at the top to catch employers’ attention.
-
----
-
-````markdown
 # Real-Time Emotion Detection Web Application Using Watson NLP and Flask
 
 ## Portfolio Showcase
